@@ -20,6 +20,8 @@ Intent juga merupakan suatu objek yang terdapat dalam suatu activity dimana obje
  
  ![alt text](IntentResult/intent3.jpg)
  
+ Pada hasil modul diatas, diketahui jika nama yang diinputkan di halaman 2 akan sama dengan nama yang ada di halaman 3.
+ 
  Sekian. Terimakasih:)
  
 # Salsabilla Maurettasya A

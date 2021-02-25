@@ -10,15 +10,15 @@ Intent juga merupakan suatu objek yang terdapat dalam suatu activity dimana obje
 
  - Halaman 1
  
- ![alt text](IntentResult/inten1.jpg)
+ ![alt text](IntentResult/intent1.jpg)
  
  - Halaman 2
  
- ![alt text](IntentResult/inten2.jpg)
+ ![alt text](IntentResult/intent2.jpg)
  
  - Halaman 3
  
- ![alt text](IntentResult/inten3.jpg)
+ ![alt text](IntentResult/intent3.jpg)
  
  Sekian. Terimakasih:)
  
